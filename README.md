@@ -1,1 +1,1 @@
-This project is a term project of Bahçeşehir University Statistics course and was carried out by a group of 4 people. Global statistical analysis of the COVID-19 pandemic was made and reported using R studio.
+This project is a term project of Bahçeşehir University INE2002- Statistics in Engineering course and was carried out by a group of 4 people. Global statistical analysis of the COVID-19 pandemic was made and reported using R studio.
